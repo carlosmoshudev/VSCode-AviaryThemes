@@ -1,0 +1,21 @@
+{
+  "name": "momo-dark-default",
+  "displayName": "Momo Dark Default",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Momo Dark Default",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Momo Dark Default-color-theme.json"
+      }
+    ]
+  }
+}
