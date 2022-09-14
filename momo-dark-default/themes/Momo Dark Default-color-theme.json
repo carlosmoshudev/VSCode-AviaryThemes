@@ -1,10 +1,14 @@
 {
 	"name": "Momo Dark Default",
 	"colors": {
-		"editor.background": "#1e3b4a",
-		"editor.foreground": "#d5607f",
+		"editor.background": "#1e3b4a", // t:4D7E96 966120, 
+		"editor.foreground": "#d5607f", // ext: 8A3048, t: D6D076 4BB4D6
+		"activityBar.background": "#132a35",
+		"activityBar.foreground": "#4BB4D6",
 		"activityBarBadge.background": "#ff638a",
-		"sideBarTitle.foreground": "#ff5757"
+		"sideBar.background": "#162f3b",
+		"sideBarTitle.foreground": "#D6D076",
+		"statusBar.background": "#4BB4D6"
 	},
 	"tokenColors": [
 		{
