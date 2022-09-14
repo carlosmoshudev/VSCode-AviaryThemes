@@ -1,10 +1,14 @@
 {
 	"name": "Momo Dark Default",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#1e3b4a", // t:4D7E96 966120, 
+		"editor.foreground": "#d5607f", // ext: 8A3048, t: D6D076 4BB4D6
+		"activityBar.background": "#132a35",
+		"activityBar.foreground": "#4BB4D6",
+		"activityBarBadge.background": "#ff638a",
+		"sideBar.background": "#162f3b",
+		"sideBarTitle.foreground": "#D6D076",
+		"statusBar.background": "#4BB4D6"
 	},
 	"tokenColors": [
 		{
@@ -15,7 +19,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#f5d3ff6e"
 			}
 		},
 		{
@@ -25,7 +29,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#a4bcff"
 			}
 		},
 		{
@@ -34,7 +38,8 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"fontStyle": "italic bold",
+				"foreground": "#48ffdd"
 			}
 		},
 		{
@@ -44,7 +49,8 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"fontStyle": "underline",
+				"foreground": "#a4cb56"
 			}
 		},
 		{
@@ -55,7 +61,8 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"fontStyle": "italic",
+				"foreground": "#9e4c92"
 			}
 		},
 		{
@@ -99,7 +106,8 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"fontStyle": "italic bold",
+				"foreground": "#60d9dded"
 			}
 		},
 		{
@@ -134,7 +142,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#ffdbd0"
 			}
 		},
 		{
@@ -165,7 +173,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#ff9d53cf"
 			}
 		},
 		{
