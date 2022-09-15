@@ -6,9 +6,14 @@
 		"activityBar.background": "#132a35",
 		"activityBar.foreground": "#4BB4D6",
 		"activityBarBadge.background": "#ff638a",
+		"activityBar.border": "#1e3b4a",
+		"activityBarBadge.foreground": "#fff",
 		"sideBar.background": "#162f3b",
-		"sideBarTitle.foreground": "#D6D076",
-		"statusBar.background": "#4BB4D6"
+		"sideBarTitle.foreground": "#ff638a",
+		"statusBar.background": "#132a35",
+		"statusBar.foreground": "#ff638a",
+		"statusBar.border": "#1e3b4a",
+		"titleBar.inactiveBackground": "#ff0000"
 	},
 	"tokenColors": [
 		{
@@ -62,7 +67,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#9e4c92"
+				"foreground": "#be65b1"
 			}
 		},
 		{
@@ -157,7 +162,8 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"fontStyle": "italic",
+				"foreground": "#a3df48"
 			}
 		},
 		{
