@@ -14,6 +14,7 @@
 		"statusBar.foreground": "#ff638a",
 		"statusBar.border": "#1e3b4a",
 		"titleBar.inactiveBackground": "#ff0000"
+
 	},
 	"tokenColors": [
 		{
